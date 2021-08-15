@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("master commit11");
         System.out.println("master commit22");
         System.out.println("fix commit33");
+        System.out.println("pull test");
     }
 }
